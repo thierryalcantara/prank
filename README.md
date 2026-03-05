@@ -2,7 +2,6 @@
 <html>
 <head>
 
-<title>Breaking: Taylor Swift Found Guilty</title>
 
 <meta property="og:title" content="Breaking: Taylor Swift Found Guilty">
 <meta property="og:description" content="Court decision shocks fans worldwide.">
