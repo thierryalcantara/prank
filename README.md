@@ -17,7 +17,6 @@
 
 <h2>…of being the worst singer of all time.</h2>
 
-<p>You’ve been pranked.</p>
 
 </body>
 </html>
